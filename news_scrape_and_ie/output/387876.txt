@@ -1,0 +1,28 @@
+ธนาคารกรุงเทพเจ๋งสุด ติด 1 ใน 9 แบงก์นอกที่สามารถตั้งสาขาในพม่าได้
+คณะกรรมการพิจารณาการให้ใบอนุญาตเปิดกิจการแก่ธนาคารต่างชาติ ของธนาคารกลางเมียนมาร์ ออกแถลงการณ์วันนี้ (1 ต.ค.) โดยระบุว่า ขณะนี้คณะกรรมการฯ ได้ประเมินจากใบสมัครที่ขอรับใบอนุญาตทั้งหมดเสร็จสิ้นแล้ว และมีผลการพิจารณาในเบี้องต้นเพื่อให้ธนาคารต่างชาติสามารถเปิดดำเนินกิจการธนาคารในเมียนมาร์ได้ให้รวมทั้งสิ้น 9 ธนาคาร
+
+// <![CDATA[
+        googletag.cmd.push(function() {
+        // googletag.defineSlot('/15575983/pc_227x90_slot1_finance', [227, 90], 'div-gpt-ad-1379309026430-1').addService(googletag.pubads());
+        // googletag.defineSlot('/15575983/pc_300x100_slot1_finance', [300, 100], 'div-gpt-ad-1379309026430-5').addService(googletag.pubads());
+        // googletag.defineSlot('/15575983/pc_300x100_slot2_finance', [300, 100], 'div-gpt-ad-1379309026430-9').addService(googletag.pubads());
+        googletag.defineSlot('/15575983/pc_300x250_slot1_finance', [300, 250], 'div-gpt-ad-1379309026430-13').addService(googletag.pubads());
+        // googletag.defineSlot('/15575983/pc_300x250_slot2_finance', [300, 250], 'div-gpt-ad-1379309026430-17').addService(googletag.pubads());
+        googletag.defineSlot('/15575983/pc_300x250_slot3_finance', [300, 250], 'div-gpt-ad-1379309026430-21').addService(googletag.pubads());
+        // googletag.defineSlot('/15575983/pc_300x250_slot4_finance', [300, 250], 'div-gpt-ad-1379309026430-25').addService(googletag.pubads());
+        //googletag.defineSlot('/15575983/pc_468x60_Other', [468, 60], 'div-gpt-ad-1381727385129-0').addService(googletag.pubads());
+        googletag.defineSlot('/15575983/pc_728x90_slot1_finance', [728, 90], 'div-gpt-ad-1379309026430-29').addService(googletag.pubads());
+        googletag.defineSlot('/15575983/pc_970x250_inner', [970, 250], 'div-gpt-ad-1380265720058-1').addService(googletag.pubads());
+		googletag.defineSlot('/15575983/pc_336x280_slot1_other', [336, 280], 'div-gpt-ad-1392696195254-0').addService(googletag.pubads());
+		googletag.defineSlot('/15575983/pc_1280x720_inner', [1280, 720], 'div-gpt-ad-1399354817094-0').addService(googletag.pubads());
+		//In-Read VDO
+		googletag.defineSlot('/15575983/pc_500x375_inner', [500, 375], 'div-gpt-ad-1405587143652-0').addService(googletag.pubads());
+		 //Universal Tag Innity
+		googletag.defineSlot('/15575983/pc_1000x720_inner', [1000, 720], 'div-gpt-ad-1412066801004-0').addService(googletag.pubads());
+        googletag.pubads().enableSyncRendering();
+        googletag.pubads().enableSingleRequest();
+        googletag.pubads().collapseEmptyDivs();
+        googletag.enableServices();
+        });
+        
+// ]]&gt;
